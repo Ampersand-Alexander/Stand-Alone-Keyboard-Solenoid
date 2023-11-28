@@ -1,5 +1,5 @@
 # Stand-Alone-Keyboard-Solenoid
-# Summary:
+Summary:
 	This is a device to emulate solenoid action that is unattached to your keyboard as a fun gag. The goal follows old solenoid enabled keyboards except is standalone and can attach to any keyboard enabling even laptop enjoyers to use it without too much tampering of their beloved device. Some may find the solenoid sound to be remedial and some may find it to be obnoxious.
 # Hardware:
 	To build the device this is what is required:
