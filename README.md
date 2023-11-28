@@ -14,22 +14,23 @@ Summary:
 		1x – micro usb
 		Soldering skills
 # Wiring Diagram:
-	The wiring diagram will look something like this, instead of the 12V it is the daisy chained 9V:
+The wiring diagram will look something like this, instead of the 12V it is the daisy chained 9V:
  
 
 # Dependencies:
-	The software requires you to install a few dependencies including python and pip, this is how you install the rest:
+The software requires you to install a few dependencies including python and pip, this is how you install the rest:
 pip install keyboard
 
 python -m pip install pyserial
 
 # Firmware:
-	The code should look like this and is called inputarduino.ino
+The code should look like this and is called inputarduino.ino
  
 Open this in Arduino IDE and hit the -> button in the top left while the Arduino is connected via USB to flash the board. You may need to specify which controller you are flashing and which COM port
 
 # Software:
-	The software is relatively straightforward. There may be alittle bit of setting up so while the Arduino is plugged in via USB go to windows key->device manager and drop down the ports section:
+
+The software is relatively straightforward. There may be alittle bit of setting up so while the Arduino is plugged in via USB go to windows key->device manager and drop down the ports section:
  
 Note the Arduino micro being on COM7,
 Second open the python code lastattempt.py in your favorite IDE and change line 5 to match the port the Arduino micro is on (ie. COM7 in this case):
