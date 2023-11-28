@@ -50,3 +50,4 @@ Any typing registered now should activate the solenoid if everything is setup pr
 
 
 * Notes: do not control + C out of terminal use = to exit the program or your solenoid will be stuck in the on position and start heating up until the battery is no longer in use. 
+![image](https://github.com/Ampersand-Alexander/Stand-Alone-Keyboard-Solenoid/assets/60246286/5132e495-c7cd-42d6-89e7-c22d6ebad04e)
