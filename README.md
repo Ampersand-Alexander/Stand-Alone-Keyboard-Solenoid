@@ -37,6 +37,8 @@ Open this in Arduino IDE and hit the -> button in the top left while the Arduino
 
 # Software:
 
+Currently the software runs on a python script, I will make it an exe sometime in the near future that may be more friendly to non-programmers.
+
 The software is relatively straightforward. There may be alittle bit of setting up so while the Arduino is plugged in via USB go to windows key->device manager and drop down the ports section:
  ![image](https://github.com/Ampersand-Alexander/Stand-Alone-Keyboard-Solenoid/assets/60246286/11e582a7-33d6-4f0a-bb61-c129fcf97fb9)
 
