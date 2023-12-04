@@ -10,12 +10,12 @@ This is a device to emulate solenoid action that is unattached to your keyboard 
 		1x – solenoid 9V
 		2x – 9V batteries
 		1x – TIP120 transistor
-		1x – diode
-		1x – 2.2k olm resistor
+		1x – 1N4001 rectifier diode
+		1x – 1k Ohm resistor
 		1x – pro micro (most Arduino can be substituted for this with 1 output pin and 1 ground pin)
 		1x – housing
 		2x – alligator clips
-		1x – micro usb
+		1x – micro usb for the arduino
 		Soldering skills
 # Wiring Diagram:
 The wiring diagram will look something like this, instead of the 12V it is the daisy chained 9V:
